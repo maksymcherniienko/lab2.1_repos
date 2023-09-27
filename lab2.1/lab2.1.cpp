@@ -23,3 +23,4 @@ int main()
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
 }
+// ця робота сертифікована офіційним департаментом "Service for asking stupid actions"
